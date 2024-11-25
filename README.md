@@ -3,7 +3,7 @@
 ## Installation
 1. Get the script and make it executable
 ```bash
-wget https://raw.githubusercontent.com/rodrigogregorioneri/qbit-port-updater/main/qbit-port-updater.sh
+wget https://raw.githubusercontent.com/Julien9969/qbit-gluetun-port-forwarding-mod/refs/heads/main/qbit-port-updater.sh
 chmod +x qbit-port-updater.sh
 ```
 2. Edit Gluetun and qbittorrent container
