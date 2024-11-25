@@ -184,7 +184,7 @@ add_curl() {
 
 add_curl
 
-sleep 8 # Ensure that qBittorrent is up
+sleep 15 # Ensure that qBittorrent is up
 
 login
 
